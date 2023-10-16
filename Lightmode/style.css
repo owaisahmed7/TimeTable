@@ -1,0 +1,30 @@
+.heading{
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(168, 180, 180);
+    border-radius: 10px;
+    float: right;
+    text-decoration: none;
+    color: white;
+    padding: 4px, 2px;
+}
+
+.row{
+    height: 50px;
+}
+
+.table{
+    border-spacing: 5px;
+    border-collapse: collapse;
+}
+
+.space{
+    padding: 20px;
+}
+
+.space1{
+    padding: 10px;
+}
+
